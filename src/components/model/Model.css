@@ -1,0 +1,65 @@
+.model {
+    height: 130vh;
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.header p {
+    font-size: 40px;
+}
+
+.image-input button {
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+.old-image {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.new-image {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.image-input form {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 300px;
+}
+
+.model-inner {
+    display: flex;
+    gap: 30px;
+}
+
+.image-preview {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.image-preview img {
+    width: 600px;
+    height: 400px;
+}
+
+.changes img {
+    height: 400px;
+    width: 600px;
+}
+
+.changes {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}

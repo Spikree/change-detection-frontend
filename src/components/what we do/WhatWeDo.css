@@ -1,0 +1,29 @@
+#what-we-do {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.mission {
+    padding: 20px 40px 20px 40px;
+    background-color: gainsboro;
+    width: 900px;
+    border-radius: 8px;
+}
+
+.problem {
+    padding: 20px 40px 20px 40px;
+    background-color: gainsboro;
+    width: 900px;
+    border-radius: 8px;
+}
+
+.what-are-we-solving {
+    padding: 20px 40px 20px 40px;
+    background-color: gainsboro;
+    width: 900px;
+    border-radius: 8px; 
+}

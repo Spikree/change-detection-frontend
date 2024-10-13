@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-items ul {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+
+.nav-items ul li {
+  padding: 12px;
+  font-size: 20px;
+  border-radius: 12px;
+}
+
+.nav-items ul li:hover {
+  background-color: rgb(79, 80, 81);
+}
